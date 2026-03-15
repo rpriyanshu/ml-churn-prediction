@@ -1,0 +1,1 @@
+[FINAL] val_auc=0.8363 | train_auc=0.8676 | best_params={'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 500, 'subsample': 0.7} | checkpoint=xgb_best_v1.json | mlflow_run_id=77196fb25bc244bfa9adfe4012cf15ab
